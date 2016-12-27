@@ -7,7 +7,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     x:Class="ShineColorPicker.ColorPickerDialog"
         mc:Ignorable="d"
-        Title="Pick a Color" Height="470" Width="412" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" ShowInTaskbar="False">
+        Title="Pick a Color" Height="470" Width="412" ResizeMode="NoResize" WindowStartupLocation="CenterOwner" ShowInTaskbar="False" Topmost="True">
     <Window.Resources>
         <ResourceDictionary Source="/ShineColorPicker;component/Themes/Generic.xaml" />
     </Window.Resources>

@@ -13,6 +13,7 @@ namespace ColorPickerSample
         public MainWindow()
         {
             InitializeComponent();
+            colorPicker.OwnerWindow = this;
         }
 
         private void colorPicker_ColorChanged(object sender, ShineColorPicker.Controls.ColorEventArgs e)
