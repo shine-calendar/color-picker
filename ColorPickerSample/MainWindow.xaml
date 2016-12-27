@@ -1,0 +1,18 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ColorPickerSample"
+        xmlns:Controls="clr-namespace:ShineColorPicker.Controls;assembly=ShineColorPicker" x:Class="ColorPickerSample.MainWindow"
+        mc:Ignorable="d"
+        Title="Color Picker Sample" Height="300" Width="500">
+    <Window.Resources>
+        <local:ColorToBrushConverter x:Key="ColorToBrushConverter"/>
+    </Window.Resources>
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="40,25,0,0" TextWrapping="Wrap" Text="Set the box's background color:" VerticalAlignment="Top"/>
+        <Border x:Name="border" BorderBrush="Black" BorderThickness="1" Margin="40,60,40,40" />
+        <Controls:ColorPicker x:Name="colorPicker" HorizontalAlignment="Left" Margin="220,20,0,0" VerticalAlignment="Top" Color="#FFD700" ColorChanged="colorPicker_ColorChanged" />
+    </Grid>
+</Window>
