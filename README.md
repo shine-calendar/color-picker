@@ -26,7 +26,7 @@ There is also an included ```ColorPicker``` control to add right into your WPF a
 ## What features are available?
 When you get to feast your eyes upon the beauty that is the Shine WPF Color Picker, there will be three tabs before you:
 
-1. **Swatches** Includes all of the colors of the X11 color system, organized into 15 columns.
+1. **Swatches** Includes all of the colors of the X11 color system, organized into 12 columns.
 2. **Sliders** Includes the sliders and up-down buttons you want, for RGB and HSV, and also a hex string.
 3. **From Image** Open up an image and select a pixel with the color you want. Used from [WPF Image Pixel Color Picker Element on CodeProject](https://www.codeproject.com/Articles/36848/WPF-Image-Pixel-Color-Picker-Element).
 
@@ -50,6 +50,4 @@ Also utlizes code from Oleg V. Polikarpotchkin and Steve Lautenschlager. Finally
 ## About Us
 Shine Calendar is striving to be the best calendar experience available on Windows, Windows 10, and Android.
 
-Learn more at [shinecalendar.com](http://shinecalendar.com), or follow us on [Twitter](https://twitter.com/ShineCalendar) or [Tumblr](http://shinecalendar.tumblr.com).
-
-Have questions? Email us at [shine-calendar@outlook.com](shine-calendar@outlook.com).
+Learn more at [shinecalendar.com](http://shinecalendar.com), or follow us on [Twitter](https://twitter.com/ShineCalendar) or [Tumblr](http://shinecalendar.tumblr.com). Email us at [shine-calendar@outlook.com](shine-calendar@outlook.com).
