@@ -8,7 +8,7 @@ Simple!
 
 Download and reference the ShineColorPicker.dll file, and then add this line where you need it:
 
-            ShineColorPicker.ColorPickerDialog cpd = new ShineColorPicker.ColorPickerDialog(myColor);
+            ColorPickerDialog cpd = new ColorPickerDialog(myColor);
             cpd.Owner = this;
             cpd.ShowDialog();
 
@@ -30,7 +30,7 @@ Includes the sliders and up-down buttons you want, for RGB and HSV, and also a h
 Open up an image and select a pixel with the color you want. Used from [WPF Image Pixel Color Picker Element on CodeProject](https://www.codeproject.com/Articles/36848/WPF-Image-Pixel-Color-Picker-Element).
 
 ## License
-The Shine Color Picker is released under the [MS-PL License](https://github.com/shine-calendar/color-picker/blob/master/LICENSE).
+The Shine Color Picker is released under the [MIT License](https://github.com/shine-calendar/color-picker/blob/master/LICENSE).
 
 ## About Us
 Shine Calendar is striving to be the best calendar experience available on Windows, Windows 10, and Android.
