@@ -8,7 +8,7 @@ Simple!
 
 Download and reference the ShineColorPicker.dll file, and then add this line where you need it:
 
-            ColorPickerDialog cpd = new ColorPickerDialog(myColor);
+            ShineColorPicker.ColorPickerDialog cpd = new ShineColorPicker.ColorPickerDialog(myColor);
             cpd.Owner = this;
             cpd.ShowDialog();
 
