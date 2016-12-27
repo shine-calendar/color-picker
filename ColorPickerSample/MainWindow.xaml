@@ -7,9 +7,6 @@
         xmlns:Controls="clr-namespace:ShineColorPicker.Controls;assembly=ShineColorPicker" x:Class="ColorPickerSample.MainWindow"
         mc:Ignorable="d"
         Title="Color Picker Sample" Height="300" Width="500">
-    <Window.Resources>
-        <local:ColorToBrushConverter x:Key="ColorToBrushConverter"/>
-    </Window.Resources>
     <Grid>
         <TextBlock HorizontalAlignment="Left" Margin="40,25,0,0" TextWrapping="Wrap" Text="Set the box's background color:" VerticalAlignment="Top"/>
         <Border x:Name="border" BorderBrush="Black" BorderThickness="1" Margin="40,60,40,40" />
