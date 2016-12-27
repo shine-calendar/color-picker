@@ -22,7 +22,7 @@ Download and reference the ShineColorPicker.dll file, and then add this line whe
 With that, you're set to go!
 
 ## What features are available?
-When you get to feast your eyes upon the beauty that is the Shine WPF Color Picker, there will be four tabs before you:
+When you get to feast your eyes upon the beauty that is the Shine WPF Color Picker, there will be three tabs before you:
 
 1. Swatches
 Includes all of the colors of the X11 color system, organized into 15 columns.
@@ -30,6 +30,10 @@ Includes all of the colors of the X11 color system, organized into 15 columns.
 Includes the sliders and up-down buttons you want, for RGB and HSV, and also a hex string.
 3. From Image
 Open up an image and select a pixel with the color you want. Used from [WPF Image Pixel Color Picker Element on CodeProject](https://www.codeproject.com/Articles/36848/WPF-Image-Pixel-Color-Picker-Element).
+
+## Screenshots
+
+[View screenshots of the color dialog!](https://github.com/shine-calendar/color-picker/blob/master/Screenshots.md)
 
 ## Plans for Future Versions
 
