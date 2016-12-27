@@ -42,7 +42,7 @@ Open up an image and select a pixel with the color you want. Used from [WPF Imag
 ## License
 The Shine Color Picker is released under the [MIT License](https://github.com/shine-calendar/color-picker/blob/master/LICENSE).
 
-Also utlizes code from Oleg V. Polikarpotchkin and Steve Lautenschlager.
+Also utlizes code from Oleg V. Polikarpotchkin and Steve Lautenschlager. Finally, also utilizes the [Xceed Wpf Toolkit](wpftoolkit.codeplex.com) (licensed under [MS-PL License](http://wpftoolkit.codeplex.com/license)).
 
 ## About Us
 Shine Calendar is striving to be the best calendar experience available on Windows, Windows 10, and Android.
