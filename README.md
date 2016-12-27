@@ -9,14 +9,14 @@ Simple!
 Download and reference the ShineColorPicker.dll file, and then add this where you need it:
 
 ```c#
-            ShineColorPicker.ColorPickerDialog cpd = new ShineColorPicker.ColorPickerDialog(myColor);
-            cpd.Owner = this;
-            cpd.ShowDialog();
+        ShineColorPicker.ColorPickerDialog cpd = new ShineColorPicker.ColorPickerDialog(myColor); 
+        cpd.Owner = this;
+        cpd.ShowDialog();
 
-            if (cpd.DialogResult)
-            {
-                myColor = cpd.SelectedColor;
-            }
+        if (cpd.DialogResult)
+        {
+            myColor = cpd.SelectedColor;
+        }
 ```
 
 With that, you're set to go!
@@ -53,4 +53,5 @@ Also utlizes code from Oleg V. Polikarpotchkin and Steve Lautenschlager. Finally
 ## About Us
 Shine Calendar is striving to be the best calendar experience available on Windows, Windows 10, and Android.
 
-Learn more at [shinecalendar.com](http://shinecalendar.com), or follow us on [Twitter](https://twitter.com/ShineCalendar) or [Tumblr](http://shine-calendar.tumblr.com). Have questions? Email us at [shine-calendar@outlook.com](shine-calendar@outlook.com).
+Learn more at [shinecalendar.com](http://shinecalendar.com), or follow us on [Twitter](https://twitter.com/ShineCalendar) or [Tumblr](http://shinecalendar.tumblr.com).
+Have questions? Email us at [shine-calendar@outlook.com](shine-calendar@outlook.com).
