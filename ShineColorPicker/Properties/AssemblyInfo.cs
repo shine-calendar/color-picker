@@ -8,11 +8,11 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ShineColorPicker")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Shine WPF Color Picker")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ShineColorPicker")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("Shine Development Group")]
+[assembly: AssemblyProduct("Shine WPF Color Picker")]
+[assembly: AssemblyCopyright("Copyright © 2016 Shine Development Group / Jayke R. Huempfner")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
