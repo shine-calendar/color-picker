@@ -31,9 +31,9 @@ Includes the sliders and up-down buttons you want, for RGB and HSV, and also a h
 3. From Image
 Open up an image and select a pixel with the color you want. Used from [WPF Image Pixel Color Picker Element on CodeProject](https://www.codeproject.com/Articles/36848/WPF-Image-Pixel-Color-Picker-Element).
 
-## Screenshots
+### Screenshots
 
-[View screenshots of the color dialog!](https://github.com/shine-calendar/color-picker/blob/master/Screenshots.md)
+[View screenshots of the color picker dialog!](https://github.com/shine-calendar/color-picker/blob/master/Screenshots.md)
 
 ## Plans for Future Versions
 
