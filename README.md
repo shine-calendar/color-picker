@@ -6,7 +6,7 @@ Well, fret no more, fellow citizen! For we, the Shine Development Group, have co
 ## How does it work?
 Simple!
 
-Download and reference the ShineColorPicker.dll file, and then add this line where you need it:
+Download and reference the ShineColorPicker.dll file, and then add this where you need it:
 
 ```c#
             ShineColorPicker.ColorPickerDialog cpd = new ShineColorPicker.ColorPickerDialog(myColor);
@@ -20,6 +20,8 @@ Download and reference the ShineColorPicker.dll file, and then add this line whe
 ```
 
 With that, you're set to go!
+
+There is also an included ```ColorPicker``` control to add right into your WPF application!
 
 ## What features are available?
 When you get to feast your eyes upon the beauty that is the Shine WPF Color Picker, there will be three tabs before you:
@@ -51,4 +53,4 @@ Also utlizes code from Oleg V. Polikarpotchkin and Steve Lautenschlager. Finally
 ## About Us
 Shine Calendar is striving to be the best calendar experience available on Windows, Windows 10, and Android.
 
-Learn more at [shinecalendar.com](http://shinecalendar.com), or [send us an email](mailto:shine-calendar@outlook.com).
+Learn more at [shinecalendar.com](http://shinecalendar.com), or follow us on [Twitter](https://twitter.com/ShineCalendar) or [Tumblr](http://shine-calendar.tumblr.com). Have questions? Email us at [shine-calendar@outlook.com](shine-calendar@outlook.com).
